@@ -1,5 +1,5 @@
 ## Hello!
 
-My name is Ovais Oozeer - I'm a software developer, and this is my portfolio site.
+My name is Ovais Oozeer - I'm a software developer, and this is my github pages site.
 
-It is quite comprehensive, and subject to change.  So, if you prefer a static, concise version, here is a [traditional CV](https://1drv.ms/b/s!AiXdbfYFdG7ugiysMvRb9IsVYo_C).
+If you're looking for a CV [click here](https://1drv.ms/b/s!AiXdbfYFdG7ugiysMvRb9IsVYo_C) for a PDF.
