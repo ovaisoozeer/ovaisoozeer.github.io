@@ -1,4 +1,10 @@
-## Project summary
+## Project summaries
+
+_TODO: add links to projects by client_
+
+I have around 13 years' experience as a developer. Mostly greenfield, but some legacy app work - comfortable with both.
+Having done web, desktop and native mobile development, I am happy to switch stacks.  But I'm most familiar with the .NET ecosystem.
+Currently doing a lot of UX-led work, often with a data angle.
 
 ### Euromonitor
 

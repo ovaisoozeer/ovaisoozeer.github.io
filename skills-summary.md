@@ -37,3 +37,5 @@
 
 - It seems silly to note the various APIs I have had to use, but some will may it useful to know that I have some experience with them.
 - Twitter · LinkedIn · facebook · Dropbox · Box.com · Google Accounts · Google Drive · Google Analytics · LIVE accounts · Yahoo accounts · iTunes loader · SongKick · SeatWave.
+
+[Formal education](education)

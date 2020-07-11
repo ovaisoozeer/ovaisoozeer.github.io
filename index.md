@@ -2,12 +2,18 @@
 
 Hello, and thanks for taking the time to visit the site!
 
-My name's Ovais, and I'm a software developer with a passion for defining and delivering long lived solutions.
+My name's Ovais, and I'm a software developer with a passion for defining and delivering long-lived solutions.
 
-Whilst technically proficient, I focus heavily on the human side of the business, supporting teams to achieve optimal outcomes.
+_TODO: Hats that fit._
 
-I believe that empowered delivery teams, fast feedback loops and transparent dialogue can overcome many hurdles commonly faced by developers.
+Whilst technically proficient, I focus heavily on the human side of the business, supporting teams to discover and achieve their outcomes.
 
-On this site, you can view a summary of the [projects and technologies](project-summaries) I have worked on throughout [my career](career-history), and a little about my resultant varied [skill set](skills-summary).
+I believe that fast feedback loops and transparent dialogue with key stakeholders can overcome many of the hurdles commonly faced by software projects.
 
-However, if it's a CV you're after, please [click here](https://1drv.ms/b/s!AiXdbfYFdG7ugiysMvRb9IsVYo_C) for a PDF.
+On this site, you can view a summary of the [projects and clients](client-list) I have been involved with during [my career](career-history), and a little about my varied [skill set](skills-summary).
+
+For more information, let's have a chat some time.
+
+For a concise CV, please [click here](https://1drv.ms/b/s!AiXdbfYFdG7ugiysMvRb9IsVYo_C) to download a PDF.
+
+_TODO: Prospective employer profile._
