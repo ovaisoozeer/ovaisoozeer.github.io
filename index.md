@@ -14,6 +14,6 @@ On this site, you can view a summary of the [projects and clients](client-list) 
 
 I am at the stage in my career where I have learned where it's beneficial to compromise and which rules are not worth breaking. I am happy to work for any organisation with a set of values that I can proudly stand behind, and that rewards employees commensurately for their effort.
 
-For more information, let's have a chat some time.
-
 For a concise CV, please [click here](https://1drv.ms/b/s!AiXdbfYFdG7ugiysMvRb9IsVYo_C) to download a PDF.
+
+_If you think you might like to work with me, then head over [here](new-employer)!_
