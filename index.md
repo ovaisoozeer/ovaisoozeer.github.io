@@ -1,4 +1,4 @@
-## "Smiles and offers to shake your hand"
+# "Smiles and offers to shake your hand"
 
 Hello, and thanks for taking the time to visit the site!
 
