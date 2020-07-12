@@ -17,16 +17,16 @@
 ### Mobile
 
 - Both native and web mobile development.  Admittedly, it's been a while.
-- If you check out my portfolio, I have worked on several iOS projects and a Windows Phone one that was genuinely a pleasure to do. My iOS experience was limited due to other commitments, but I retain an interest in the platform.
+- If you check out my portfolio, I have worked on several iOS projects/Windows Phone projects.
 
 ### Source Control
 
-- My experience with Git has been awesome - it's a very powerful tool for small teams and great for a geographically distributed team. SVN is a bit dated, but I have used it and can do if required to. And TFS is a necessary evil.
+- Prefer git over SVN/TFS.  Flexible with branching strategy, though I prefer trunk-based development.
 
 ### Front-end development
 
 - I'm quite experienced with front end development. Have done lots of OO JavaScript, JQuery/UI, customised widgets and asynchronous behaviour.
-- I cannot, however, call myself an expert in the field of CSS.
+- I do not call myself an expert in the field of CSS, but I can tell the difference between BEM and SMACSS.
 
 ### Authentication/Encryption
 
@@ -35,7 +35,7 @@
 
 ### Misc APIs
 
-- It seems silly to note the various APIs I have had to use, but some will may it useful to know that I have some experience with them.
-- Twitter · LinkedIn · facebook · Dropbox · Box.com · Google Accounts · Google Drive · Google Analytics · LIVE accounts · Yahoo accounts · iTunes loader · SongKick · SeatWave.
+- It seems silly to note the various APIs I have had to use, but some may it useful to know that I have some experience with these:
+- Twitter · LinkedIn · facebook · Dropbox · Box.com · Google Accounts · Google Drive · Google Analytics · LIVE accounts · Yahoo accounts · iTunes loader · SongKick · SeatWave · DocuSign · Signicat.
 
 [Formal education](education)
