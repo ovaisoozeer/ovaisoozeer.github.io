@@ -4,9 +4,7 @@ Hello, and thanks for taking the time to visit the site!
 
 My name's Ovais, and I'm a software developer with a passion for defining and delivering long-lived solutions.
 
-_TODO: Hats that fit._
-
-Whilst technically proficient, I focus heavily on the human side of the business, supporting teams to discover and achieve their outcomes.
+Whilst technically proficient, I focus heavily on the human side of the practice, supporting teams to discover and achieve their outcomes.
 
 I believe that fast feedback loops and transparent dialogue with key stakeholders can overcome many of the hurdles commonly faced by software projects.
 
