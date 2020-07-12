@@ -6,53 +6,11 @@ I have around 13 years' experience as a developer. Mostly greenfield, but some l
 Having done web, desktop and native mobile development, I am happy to switch stacks.  But I'm most familiar with the .NET ecosystem.
 Currently doing a lot of UX-led work, often with a data angle.
 
-### Euromonitor
-
-#### VIA application [6 months, Lead developer, Team size: 4]
-- ASP.NET Core · Elasticsearch · GCP · Azure DevOps.
-- Data migration and API replacement.
-
-### Toyota Financial Services
-
-#### Esales checkout process [6 months, Lead developer, Team size: 4]
-- ASP.NET Core · DynamoDB · AWS Lambda · DocuSign · Signicat · Octopus Deploy · TeamCity.
-- eID and eSignature.
-
-#### Esales platform [12 months, Lead developer, Team size: 15]
-
-- ASP.NET Core · PostgresQL · AWS ECS · Docker · DocuSign · Signicat · Octopus Deploy · TeamCity.
-- Online checkout and order fulfilment for privately leased vehicles.
-
-#### Feasibility study [6 weeks, Team size: 4]
-
-- B2C sales platform feasibility study.
-
-### NHS Business Services Authority
-
-#### Notification Preferences Service [6 weeks, Team size: 8]
-
-- Java (Spring Framework) · AWS · Eclipse · Gradle · PostgresQL.
-- API for capturing notification preferences for various NHS services.
-
-### Rolls Royce Marine (Ålesund)
-
-#### Data Analytics Platform [3 weeks, Team size: 6]
-
-- Azure Data Lake · PySpark · Spyder · Jupiter Notebooks.
-- Data analytics and reporting platform for equipment health monitoring.
-
-### Valtech
-
-#### Project Hermes [4 weeks, Team size: 3]
-
-- NodeJS · Hyperledger · Docker · Git.
-- Blockchain application POC.
-
-### NHS Business Service Authority
-
-#### Notification preferences service [3 weeks, Team size: 4]
-
-- Java (Spring) · Gitlab CI · PostgreSQL · Eclipse.
+- [Euromonitor](clients/emi) \[6 months, Lead developer, Team size: 4\]
+- [Toyota Financial Services](clients/tfs) \[2 years, Lead developer, Team size: 15\]
+- [NHS Business Services Authority](clients/nhsbsa) \[6 weeks, Team size: 8\]
+- [Rolls Royce Marine (Ålesund)](clients/rrm )\[3 weeks, Team size: 6\]
+- Valtech (internal project: "Hermes") [4 weeks, Team size: 3]
 
 ### BUPA Global
 
