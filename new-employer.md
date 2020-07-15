@@ -11,4 +11,6 @@ If you are, please take a moment to consider the following questions.
 4. What is your approach to employee satisfaction?
 
 If you think you can answer these confidently, then let's have a chat!
-You can reach me on 07739 400855, or via email at ovaisooz@hotmail.com. 
+You can reach me on 07739 400855, or via email at ovaisooz@hotmail.com.
+
+_N.B.: In order to short circuit some longer conversations, please note that I am currently considering offers in the region of £85-100k p.a._
