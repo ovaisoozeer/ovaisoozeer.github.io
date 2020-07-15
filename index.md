@@ -10,7 +10,7 @@ I've tried to capture the essence of my profile below; of course I'm happy to ha
 
 - I'm **technically proficient**, but focus heavily on the **human** side of my practice, supporting teams to discover and achieve their outcomes.
 - My skill in **estimation and prioritisation** is mainly gained from continuous delivery and product development, working closely with stakeholders.
-- I'm comfortable with **facilitation**, combining my experience in event organisation, and collaboraion within cross-functional delivery teams.
+- I'm comfortable with **facilitation**, combining my experience in event organisation, and collaboration within cross-functional delivery teams.
 - At the start of a project, I can help you to **establish good habits**, to ensure a build and deployment process that is resilient to change.
 - During projects, I encouraging **short feedback loops, transparent conversation, and revisiting context/constraints** in order to make good and timely decisions.
 - If I've done my job right, the end of any project should be **stress-free**.
