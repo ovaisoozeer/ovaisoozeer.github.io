@@ -1,21 +1,21 @@
-# "Smiles and offers to shake your hand"
+# "Smiles and offers to shake your hand."
 
 Hello, and thanks for taking the time to visit!
 
-My name's Ovais, and I'm a software developer with experience in defining and delivering software in an [agile manner](http://www.agilemaxims.com/).  I am happy to work for any organisation with a set of values that I can proudly stand behind.
+My name is Ovais, and I'm a software developer with experience in defining and delivering software in an [agile manner](http://www.agilemaxims.com/).  I love to work for any organisation with a set of values that I can proudly represent.
 
-On the site, you can view a summary of the [projects and clients](client-list) I have been involved with during [my career](employment-history), and a little about my varied [skill set](skills-summary).
+[Here](client-list), you can view a summary of the clients I have worked with during [my career](employment-history), and a little about my [skill set](skills-summary).
 
-I've tried to capture the essence of my profile below; of course I'm happy to have a conversation about any of these points:
+I've distilled the essence of my profile below, but a conversation is always better. Please [get in touch](contact) if you would like to know more.
 
-- I'm **technically proficient**, but focus heavily on the **human** side of my practice, supporting teams to discover and achieve their outcomes.
-- My skill in **estimation and prioritisation** is mainly gained from continuous delivery and product development, working closely with stakeholders.
-- I'm comfortable with **facilitation**, combining my experience in event management, collaboration within cross-functional delivery teams, and stakeholder engagement.
-- At the start of a project, I can help you to **establish good habits**, to ensure a build and deployment process that is resilient to change.
-- During projects, I encouraging **short feedback loops, transparent conversation, and revisiting context/constraints** in order to make good and timely decisions.
-- If I've done my job right, the end of any project should be **stress-free**.
+- I'm **technically proficient**, focusing heavily on the **human** side of my practice, supporting teams to discover and achieve their outcomes.
+- My skills in **estimation and prioritisation** have been honed from continuous delivery, and product development, working closely with stakeholders.
+- I'm very comfortable with **facilitation** as it combines my experience in event management, collaboration with cross-functional delivery teams, and stakeholder engagement.
+- At the start of a project, I can help you by **establishing good habits**, to ensure a resilient build and deployment process which embraces change (this should be expected, not feared).
+- During projects, I practice and encourage **short feedback loops, transparent and open conversations, and constant reviews of context and constraints**: these enable by good and timely decisions, which are critical to success.
+- There should be cause to **celebrate success** not only at the end, but throughout the project.
 
 
 For a concise CV, please [click here](https://1drv.ms/b/s!AiXdbfYFdG7ugiysMvRb9IsVYo_C) to download a PDF.
 
-_If you think you might like to work with me, then head over [here](new-employer)!_
+_If you think you'd like to work with me, please head over [here](new-employer)._
