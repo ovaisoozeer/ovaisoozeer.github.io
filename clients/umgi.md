@@ -29,7 +29,9 @@
     - Seatwave
 
 
-## Central Production Release Schedule (+ Music Portal)
+## CPRS
+
+Central Production Release Schedule (+ Music Portal)
 
 - Location: London
 - Aim: Maintenance and support of a scheduling system for physical and digital audio products.
