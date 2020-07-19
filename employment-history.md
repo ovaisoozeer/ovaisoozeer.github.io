@@ -1,5 +1,7 @@
 # Career history
 
+This is my employment history.  Head over [here](client-list) for a list of clients/project work.
+
 ## Software Development:
 - 2015-2020: Consultant Software Developer at [Valtech](https://www.linkedin.com/company/valtech/)
 - 2014-2015: Senior Developer at [Creator Digital](https://www.linkedin.com/company/creatorlondon/)
