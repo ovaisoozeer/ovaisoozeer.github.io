@@ -1,41 +1,78 @@
 # Skills summary
 
+Some fields require practitioners to have a wealth of theoretical knowledge.
+
+Software development requires some of this, but you become proficient through practice.
+
+Here are the [technical](#technical) and [less-technical](#less-technical) aspects of my experience.
+
+Specific, project-related technologies are listed against individual [clients](client-list).
+
+## Technical
+
 ### Data
 
-- Modelling: Lots of experienced with relational and document-oriented databases. Familiarity with graph databases.
-- Persistence: Cloud storage via the usual suspects (Azure Data Lake, Amazon RDS)
-- Search: Au fait with indexing/searching using the Elastic stack.
-- Messaging: Have used message bus tech to good effect (RabbitMQ, Azure Service Bus, Kafka).
+Familiar with Microsoft, Apache, and other propriety solutions.
 
-### Server-side development
+- Modelling: Lots of experience with relational and document-oriented databases. Familiarity with graph, and key-value databases. Schema migration.
+- Persistence: Traditional hardware, and cloud storage. Data transform/migration/decommissioning.
+- Search: Elastic and other Lucene-based search engines.
+- Messaging: Have used message brokers in both server-server and client-server scenarios.
 
-- I've done a lot of .NET development.  Websites, Windows Services, console POCs, APIs (SOAP and REST).
-- I also have experience in Java development.
-- Limited PHP experience.
-- More recently, I have been targeting Azure's IaaS and PaaS offerings.
+### UI
 
-### Mobile
+Have worked alongside many user-centred design specialists to deliver interfaces that are accessible and support multiple devices.
 
-- Both native and web mobile development.  Admittedly, it's been a while.
-- If you check out my portfolio, I have worked on several iOS projects/Windows Phone projects.
+#### Web
+
+- Lots of object-oriented JavaScript, JQuery, other frameworks.
+- Lots of asynchronous behaviour, single page web apps, client-facing and internal apps.
+- Knows the difference between BEM and SMACSS.
+
+#### Mobile
+
+Both native and web mobile development.
+
+### Headless/Back end
+
+Websites, Windows/Linux Services, console apps, Web APIs.
+
+- Lots of: .NET.
+- Some: Java, PHP, Python.
+- Limited: PHP.
 
 ### Source Control
 
-- Prefer git over SVN/TFS.  Flexible with branching strategy, though I prefer trunk-based development.
+Prefer Git over SVN/TFS.  Flexible with branching strategy, though I prefer trunk-based development.
 
-### Front-end development
+### Security
 
-- I'm quite experienced with front end development. Have done lots of OO JavaScript, JQuery/UI, customised widgets and asynchronous behaviour.
-- I do not call myself an expert in the field of CSS, but I can tell the difference between BEM and SMACSS.
+- Familiar with encryption at rest and in transit.
+- Aware of network security basics - happy to work alongside specialists to define security architecture.
+- Development processes that inherently support organisational security.
 
-### Authentication/Encryption
+### Integrations
 
-- Familiar with encryption algorithms and their usage over the web and in programming in general.
-- Have experience setting up various web authentication methods.
+It seems silly to note the various APIs I have had to use, but some may it useful to know that I have some experience with these: Twitter · LinkedIn · facebook · Dropbox · Box.com · Google Accounts · Google Drive · Google Analytics · LIVE accounts · Yahoo accounts · iTunes loader · SongKick · SeatWave · DocuSign · Signicat.
 
-### Misc APIs
+## Less-Technical
 
-- It seems silly to note the various APIs I have had to use, but some may it useful to know that I have some experience with these:
-- Twitter · LinkedIn · facebook · Dropbox · Box.com · Google Accounts · Google Drive · Google Analytics · LIVE accounts · Yahoo accounts · iTunes loader · SongKick · SeatWave · DocuSign · Signicat.
+### Analysis
 
-[Formal education](education)
+As a consultant, I have had the pleasure of eliciting new requirements from clients, and performing post-mortem analyses.
+
+### Estimation & prioritisation
+
+A constant in development is negotiation over the next highest priority task.  I am proficient in qualifying these, in terms that can be understood by both the delivery team and other major stakeholders.
+
+### Facilitation
+
+I have facilitated many workshops and events both, within my teams and at an organisational level.  The process of shining a light on latent knowledge is something that I enjoy.
+
+### Mentoring
+
+I have had some training in mentoring, and been privileged to provide mentorship to a few people early in their careers - full credit to these amazing people, who have gone on to do bigger and better things within a short period of time.
+
+### Recruitment
+
+I have lots of hands-on experience in formulating a recruitment process, and conducting face-to-face and remote interviews.

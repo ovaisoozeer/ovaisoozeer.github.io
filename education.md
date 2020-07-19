@@ -1,12 +1,6 @@
 # Education
 
-Some fields require practitioners to have a wealth of theoretical knowledge.
-
-Software development requires some, but proficiency is gained through practical application and lessons learned by doing.
-
-I'd take a growth mindset, over technical certification, any day.
-
-Before I reached this opinion, I was led to believe that you needed a degree to get anywhere. So, I did one.
+My formal education is as follows.  However, I value my [experience](skills) much more highly.
 
 ## University
 
