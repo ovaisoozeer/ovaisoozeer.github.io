@@ -1,6 +1,6 @@
 # Education
 
-My formal education is as follows.  However, I value my [experience](skills) much more highly.
+My formal education is as follows.  Please note that I value my [experience](skills) much more highly.
 
 ## University
 
