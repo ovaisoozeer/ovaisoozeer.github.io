@@ -51,9 +51,7 @@ _E.g.: [EMI](clients/emi), [Toyota](clients/tfs), [NHS](clients/nhsbsa)_
 
 ### Security
 
-- Familiar with encryption at rest and in transit.
-- Aware of network security basics - happy to work alongside specialists to define security architecture.
-- Development processes that inherently support organisational security.
+- Experienced in applying basic security measures, such as OWASP Top 10. Have worked alongside specialists to define security non-functional requirements.
 
 _E.g.: [ID-conf](clients/id-conf), [Alphadas](clients/alphadas)_
 
