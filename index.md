@@ -9,7 +9,7 @@ Please follow the links to view a summary of the [clients](client-list) I have w
 I've distilled the essence of my profile below, but a conversation is always better. Please do [get in touch](contact) if you would like to know more:
 
 - I'm **technically proficient**, and focus heavily on the **human** side of my practice, supporting teams to discover and achieve their outcomes.
-- My skills in **estimation and prioritisation** have been honed from continuous delivery, and product development, where I haved worked closely with stakeholders.
+- My skills in **estimation and prioritisation** have been honed from continuous delivery, and product development, where I have worked closely with stakeholders.
 - I'm very comfortable with **facilitation**, as it combines my experience in event management, collaboration with cross-functional delivery teams, and stakeholder engagement.
 - At the start of a project, I can help you by **establishing good habits**, to ensure a resilient build and deployment process which embraces change (this is to be expected, not feared).
 - During projects, I practice and encourage **short feedback loops, transparent and open conversations, and constant reviews of context and constraints**.  These enable good and timely decisions, which are in turn critical to success.
