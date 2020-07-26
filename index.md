@@ -16,6 +16,6 @@ I've distilled the essence of my profile below, but a conversation is always bet
 - I encourage teams to **celebrate success** not only at the end, but throughout any project.
 
 
-For a concise CV, please [click here](https://1drv.ms/b/s!AiXdbfYFdG7ugiysMvRb9IsVYo_C) to download a PDF.
+For a concise CV, please [click here](https://1drv.ms/b/s!AiXdbfYFdG7uhCToingFvAPdpqPB?e=BUQgOz) to download a PDF.
 
 _If you think you'd like to work with me, please head over [here](new-employer)._
