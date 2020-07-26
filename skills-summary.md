@@ -77,7 +77,7 @@ It seems silly to note the various APIs I have had to use, but some may it usefu
 
 ### Analysis
 
-As a consultant, I have had the pleasure of eliciting new requirements from clients, and performing post-mortem analyses.
+As a consultant, I am experienced in deducing needs from wants.
 
 Fan of domain driven design, and the benefits wrought from bringing together developers and stakeholders.
 
