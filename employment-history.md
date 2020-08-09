@@ -10,7 +10,7 @@ This is my employment history.  Head over [here](client-list) for a list of clie
 
 #### Libraries, Events, and Customer Service:
 - 2005-2006: Customer Service Advisor at Capita
-- 2002-2002: International Events Assistant at the [Chartered Institute of Library and Information Professionals](https://www.cilip.org.uk/)
-- 2001-2002: Sales Advisor at Currys
-- 2001-2001: Library Assistant at [English Heritage](https://www.english-heritage.org.uk/)
+- 2002-2004: International Events Assistant at the [Chartered Institute of Library and Information Professionals](https://www.cilip.org.uk)
+- 2001-2002: Sales Advisor at [Currys](https://www.currys.co.uk)
+- 2001-2001: Library Assistant at [English Heritage](https://www.english-heritage.org.uk)
 - 2000-2001: Library & Information Assistant at [The Royal Society of Chemistry](https://www.rsc.org/locations-contacts/library/).
