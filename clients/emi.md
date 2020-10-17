@@ -6,7 +6,7 @@ Client website: [www.euromonitor.com](https://www.euromonitor.com/about-us-page)
 
 - Location: London
 - Aim: Replace repository and web API for their VIA web app.
-- Role: Lead developer (mostly coding)
+- Role: Lead developer
 - Duration: 6 months
 - Team: 8x Developers, 5x QAs, TA, Delivery Manager.
 - Notable challenges/experience:

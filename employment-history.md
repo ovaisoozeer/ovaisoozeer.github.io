@@ -3,7 +3,7 @@
 This is my employment history.  Head over [here](client-list) for a list of clients/project work.
 
 ## Software Development:
-- 2015-2020: Consultant Software Developer at [Valtech](https://www.linkedin.com/company/valtech/)
+- 2015-2020: Senior Consultant at [Valtech](https://www.linkedin.com/company/valtech/)
 - 2014-2015: Senior Developer at [Creator Digital](https://www.linkedin.com/company/creatorlondon/)
 - 2008-2014: Developer at [Release Consulting Ltd](https://www.linkedin.com/company/release-consulting-limited/)
 - 2006-2007: Intern at Oilband Ltd
