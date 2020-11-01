@@ -1,4 +1,4 @@
-# Info for new employers
+# New employer info
 
 So, you're probably looking at this page and thinking we're a good fit. Great!
 
@@ -12,5 +12,3 @@ If you are, please take a moment to consider the following questions.
 
 If you can answer these questions, let's have a chat!
 You can reach me on 07739 400855, or via email at ovaisooz@hotmail.com.
-
-_N.B.: In order to short circuit some longer conversations, please note that I am currently considering offers in the region of £85-100k p.a._
