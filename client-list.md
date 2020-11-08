@@ -1,8 +1,6 @@
 # Clients/Projects
 
-In August 2020 I will have been a developer for a total of 13 years.
-
-In this time, I have had four [employers](employment-history), and over twenty clients from various domains.
+I have had four [employers](employment-history), and over twenty clients from various domains.
 
 These are the ones that I can declare:
 
