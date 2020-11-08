@@ -2,7 +2,7 @@
 
 Hello, and thanks for taking the time to visit!
 
-My name is Ovais, and I'm a software developer with experience in defining and delivering software in an [agile manner](http://www.agilemaxims.com/).  I love to work for any organisation with a set of values that I can proudly represent.
+My name is Ovais, and I'm a software engineer with experience in defining and delivering software in an [agile manner](http://www.agilemaxims.com/).  I love to work for any organisation with a set of values that I can proudly represent.
 
 Please follow the links to view a summary of the [clients](client-list) I have worked with during [my career](employment-history), and a little about my [skill set](skills-summary).
 
