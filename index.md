@@ -15,6 +15,7 @@ I've distilled the essence of my profile below, but a conversation is always bet
 - During projects, I practice and encourage **short feedback loops, transparent and open conversations, and constant reviews of context and constraints**.  These enable good and timely decisions, which are in turn critical to success.
 - I encourage teams to **celebrate success** not only at the end, but throughout any project.
 
+Tech terms are often misinterpreted, so I've put together a [disambiguation page](when-i-say-x-i-mean).
 
 For a concise CV, please [click here](https://1drv.ms/b/s!AiXdbfYFdG7uhCToingFvAPdpqPB?e=BUQgOz) to download a PDF.
 
