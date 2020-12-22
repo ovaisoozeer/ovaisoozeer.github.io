@@ -1,4 +1,4 @@
-## When I say 'X' - I mean..
+## When I say 'X' - I mean...
 - Agile/SCRUM - the fundamentals rather than any specific process.
 - ATDD - when UX is imperative.
 - BDD + DDD - as a holistic approach.
