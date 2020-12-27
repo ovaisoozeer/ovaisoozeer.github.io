@@ -11,4 +11,4 @@ If you are, please take a moment to consider the following questions.
 4. What is your churn rate? How do you track employee satisfaction?
 
 If you can answer these questions, let's have a chat!
-You can reach me on 07739 400855, or via email at ovaisooz@hotmail.com.
+You can reach me on 07739 400855, or via email at web@ovais.dev.
